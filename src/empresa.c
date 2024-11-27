@@ -1,7 +1,7 @@
 //
 // Created by fcthe on 27/11/2024.
 //
-#include <malloc.h>
+#include "malloc.h"
 #include "stdio.h"
 #include "funcionario.h"
 #include "empresa.h"
